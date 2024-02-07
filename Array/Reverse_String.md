@@ -22,6 +22,7 @@ s = for
 `You only need to complete the function reverseWord() that takes s as parameter and returns the reversed string.`
 
 Expected Time Complexity: O(|S|).
+
 Expected Auxiliary Space: O(1).
 
 Constraints:
